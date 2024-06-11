@@ -1,3 +1,4 @@
-MundoLivre FM,https://up-rcr.webnow.com.br/mundolivre.mp3
-Radio Mundo do Rock,https://servidor34.brlogic.com:8014/live
-u80s,http://ice6.somafm.com/u80s-128-mp3
+Triple R Community Radio,https://ondemand.rrr.org.au/stream/ws-mq.m3u
+Triple J Radio,http://live-radio01.mediahubaustralia.com/2RNW/mp3/
+Triple J Hottest,https://mediaserviceslive.akamaized.net/hls/live/2100183/triplejhottest/index.m3u8
+ABC Radio Melbourne,http://www.abc.net.au/res/streaming/audio/mp3/local_melbourne.pls
