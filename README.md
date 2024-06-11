@@ -3,7 +3,7 @@
 
 Forked from [M5Cardputer_WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio/tree/main)
 
-All info below is from original repo, all I have done is replace the list at station_list.txt with my own choices. 
+All info below is from original repo, all I have done is replace the list of URLs at [station_list.txt](https://github.com/dhcav/M5Cardputer_WebRadio_MelbourneAU/blob/main/M5Cardputer_WebRadio/station_list.txt) with my own choices. 
 
 - - - - - 
 
