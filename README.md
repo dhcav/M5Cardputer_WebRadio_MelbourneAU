@@ -1,5 +1,9 @@
 
-# M5Cardputer_WebRadio
+# M5Cardputer_WebRadio_MelbourneAU
+
+Forked from [M5Cardputer_WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio/tree/main)
+
+All info below is from original repo, all I have done is replace the list at stations.txt with my own choices. 
 
 M5Cardputer_WebRadio baseado nas bibliotecas: 
 
